@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ABMHMD/Flutter/flutter-tdd-clean-architecture-course/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml",
+            "map": [
+                {
+                    "source": "/Users/ABMHMD/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/8328dc0a62c1e2474c654ccf21ccc751/res/values-pt-rPT/values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
